@@ -4,8 +4,9 @@ This app has preload dictionary can take user input and return the definition. I
 
 ## Some examples output
 
-<img src="img/example1.png" height="400" alt="Screenshot"/> 
-<img src="img/example2.png" height="400" alt="Screenshot"/>
+<img src="img/example1.png" height="100" alt="Screenshot"/> 
+
+<img src="img/example2.png" height="100" alt="Screenshot"/>
 
 
 
